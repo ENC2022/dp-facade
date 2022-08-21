@@ -17,7 +17,7 @@ Patrón estructural
 
 ### Ejemplo Real
 
-Mediante la implementación del patrón de diseño Facade implementaremos un sistema que permite realizar pagos en línea, para lo cual será necesario interactuar con varios sistemas, dichos sistemas conllevan una cierta complejidad, por lo que interactuar con todos los subsistemas puede ser muy complicado, sobre todo para los programadores que no tienen contexto del funcionamiento de los subsistemas. Por lo cual se implementará una fachada que permita exponer operaciones de alto nivel, las cuales se encarguen de interactuar con los |subsistemas y abstrae a los programadores de la complejidad de interactuar con dichos sistemas.
+Mediante la implementación del patrón de diseño Facade implementaremos un sistema que permite realizar pagos en línea, para lo cual será necesario interactuar con varios sistemas, dichos sistemas conllevan una cierta complejidad, por lo que interactuar con todos los subsistemas puede ser muy complicado, sobre todo para los programadores que no tienen contexto del funcionamiento de los subsistemas. Por lo cual se implementará una fachada que permita exponer operaciones de alto nivel, las cuales se encarguen de interactuar con los subsistemas y abstrae a los programadores de la complejidad de interactuar con dichos sistemas.
 
 ![image](https://user-images.githubusercontent.com/55771796/174156401-103470fd-53d8-4ead-b77b-97f1e4d50499.png)
 
